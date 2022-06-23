@@ -2,7 +2,7 @@
 
 ## DATE : 
 
-# READ AND WRITE AN IMAGE
+# <p align="center"> READ AND WRITE AN IMAGE </p>
 
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
@@ -26,10 +26,12 @@ End the program and close the output image windows.
 
 
 ## Program:
+
+
+## Developed By: PRIYADARSHINI R
+## Register Number :  212220230038
 ```python
 
-# Developed By: PRIYADARSHINI R
-# Register Number :  212220230038
 
 # To Read,display the image
 
